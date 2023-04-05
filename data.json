@@ -1,7 +1,54 @@
 {
-  "error": {
-    "code": 503,
-    "message": "The service is currently unavailable.",
-    "status": "UNAVAILABLE"
-  }
+  "range": "'スポットデータ'!A1:J83",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "タイムスタンプ",
+      "カテゴリ",
+      "画像",
+      "緯度",
+      "経度",
+      "スポット名",
+      "紹介文",
+      "Instagram",
+      "Twitter",
+      "公式サイト"
+    ],
+    [
+      "2022/05/26 1:40:00",
+      "蕎麦",
+      "https://atsushiiz.github.io/testmap/r1.jpg",
+      "35.68577471",
+      "139.775019",
+      "利久庵",
+      "納豆そばが最高です。定食もあります。",
+      "",
+      "",
+      "http://www.rikyu-an.com/"
+    ],
+    [
+      "2022/05/26 1:40:00",
+      "寿司",
+      "https://atsushiiz.github.io/testmap/j1.jpg",
+      "35.6861189",
+      "139.775576",
+      "江戸前鮨 日本橋 蛇の市本店",
+      "お寿司がとても美味しいです。日本酒も豊富です。",
+      "",
+      "",
+      "https://www.jyanoichi.tokyo/"
+    ],
+    [
+      "2022/05/26 15:40:00",
+      "カツ丼",
+      "https://atsushiiz.github.io/testmap/s1.jpg",
+      "35.68701052",
+      "139.7733855",
+      "奏す庵",
+      "ワセカツ丼はソースカツタイプ。週3でイケる感じです。",
+      "",
+      "@sauce_un",
+      "http://www.sauce-un.jp/"
+    ]
+  ]
 }
